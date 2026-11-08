@@ -218,7 +218,7 @@ Potential improvements for future versions include:
 <p align="center">
   🐄 Lumpy Skin Disease Detection
   <br/>
-  *Empowering Livestock Health Through Artificial Intelligence.*
+  Empowering Livestock Health Through Artificial Intelligence.
   <br/><br/>
   Made with ❤️ using Python, Deep Learning & YOLOv11
 </p>
