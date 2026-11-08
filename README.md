@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  **An AI-powered cattle health monitoring system that detects Lumpy Skin Disease (LSD) using YOLOv11 deep learning technology.**
+  ** An AI-powered cattle health monitoring system that detects Lumpy Skin Disease (LSD) using YOLOv11 deep learning technology.
 </p>
 
 ---
