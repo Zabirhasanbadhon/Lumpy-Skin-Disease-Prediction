@@ -118,7 +118,7 @@ This project is an experimental AI-based detection system. Predictions are not a
 ---
 
 <p align="center">
-  <b>🐄 LumpyGuard AI</b>
+  <b>🐄 Lumpy Skin Disease Detection</b>
   <br/>
   <i>Empowering Livestock Health Through Artificial Intelligence.</i>
   <br/><br/>
