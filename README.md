@@ -208,7 +208,7 @@ Potential improvements for future versions include:
 
 ## 👨‍💻 Developer
 
-**Developed as an AI and Machine Learning project focused on intelligent livestock health monitoring.**
+**ZaBir HaSan**
 
 🌐 Website: [www.zabirhasan.com](https://www.zabirhasan.com)
 
@@ -216,7 +216,7 @@ Potential improvements for future versions include:
 
 
 <p align="center">
-  **🐄 LumpyGuard AI**
+  🐄 Lumpy Skin Disease Detection
   <br/>
   *Empowering Livestock Health Through Artificial Intelligence.*
   <br/><br/>
